@@ -46,7 +46,7 @@ Para baixar clique [Windows](https://git-scm.com/download/win), [Mac](https://gi
 
 **git add +nomedoarquivo** adicionar arquivo específico;
 
-**git add .** adicionar todos os arquivos;
+**git add --all** adicionar todos os arquivos;
 
 **git commit -m "título+descrição"** salvar mensagem;
 
