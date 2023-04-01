@@ -22,7 +22,7 @@ Para baixar clique [Windows](https://git-scm.com/download/win), [Mac](https://gi
 
 **cd** entrar na pasta;
 
-**cd...** sair da pasta;
+**cd ..** sair da pasta;
 
 **touch** criar arquivo;
 
